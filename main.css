@@ -209,7 +209,7 @@ body {
   top: 50%; /* 从容器的顶部开始 */
   left: 50%; /* 从容器的左边开始 */
   transform: translate(-50%, -50%); /* 通过负的平移使其完全居中 */
-  background-image: url(img/ryujin.gif);
+  background-image: url(img/lana.gif);
   z-index: 2; /* 确保 gift-gif 在上面 */
   opacity: 0; /* 初始状态隐藏 */
   transition: opacity 0.7s ease, transform 0.7s ease;
