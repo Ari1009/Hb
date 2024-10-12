@@ -1,6 +1,6 @@
 window.addEventListener('load', () => {
   Swal.fire({
-    title: 'Do you want to play music in the background? <br> <span style="font-size: 12px;">(from your favourite KPOP group ITZY)</span>',
+    title: 'Do you want to play music in the background?',
     icon: 'warning',
     showCancelButton: true,
     confirmButtonColor: '#3085d6',
